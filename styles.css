@@ -18,6 +18,10 @@ h3{
     color:  rgb(209, 14, 14);
     text-align: center;
     font-size: 60px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-right: auto;
+    margin-left:auto;
 }
 
 img{
@@ -30,13 +34,21 @@ img{
 }
 ul{
     text-align:center;
-    font-size: 25px;
+    font-size: 35px;
 }
 
 li{
     list-style:none;
     padding: 4px;
     
+}
+
+.dec{
+    
+    margin: 2px 1000px;
+    border: 5px solid rgb(209, 14, 14);
+    padding-right: 1px;
+    padding-left: 1px;
 }
 
 
